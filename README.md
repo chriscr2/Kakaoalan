@@ -27,4 +27,6 @@ Play as the knowledge-loving West African nation, lead by one of its well-known 
 
 - Balance fixes.
 
+- Unique religion (if G&K update was released).
+
 If you have any concerns feel free to contact me. Thank you.
