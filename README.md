@@ -1,5 +1,5 @@
 ## The Lyfoda Kakaoalan  
-Play as the knowledge-loving West African nation, lead by one of its well-known figures in its history.  
+Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
 
 ***Unique Ability: Blessings Of The Zaaoo** (Scholars Of The Jade Hall)*
 > This Iron-Age to Early-Medieval state independently developed iron tools, elephant domestication, and writing. 
