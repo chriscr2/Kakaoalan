@@ -1,5 +1,5 @@
 ## Changelog
-v1.1:
+v1.1.1:
 - Removed Azozo Azen unit.
 
 - Removed unique abilities for every unique unit, but added a free promotion to the Adalal Kakaoalan (Drill 1).
@@ -7,6 +7,8 @@ v1.1:
 - Adjusted some parameters and production costs for the unique buildings and units.
 
 - Fixed crash issue.
+
+- Added ATLAS files in order to  make the icons appear on mobile.
 
 
 ## The Lyfoda Kakaoalan  
