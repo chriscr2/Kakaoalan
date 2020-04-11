@@ -1,6 +1,6 @@
-## Changelog for v1.1.2
-- Added full changelog to the credits text.
-- Adalal no longer replaces the Archer as the unique unit.
+## Changelog for v1.1.3
+- Increased the cost of the Adalal Kakaoalan, and it also replaces the Archer as well.
+- Fixed crash issue.
 
 ## The Lyfoda Kakaoalan  
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
@@ -8,7 +8,7 @@ Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the
 ***Unique Ability: Blessings Of The Zaaoo** (Scholars Of The Jade Hall)*
 > This Iron-Age to Early-Medieval state independently developed iron tools, elephant domestication, and writing. 
 
-***Unique Unit: Adalal Kakaoalan***  
+***Unique Unit: Adalal Kakaoalan** (Replaces Archer)*  
 
 > Despite its origins as a group for hunters, this group proved to be an vital for military advancement in the nation.  
 
