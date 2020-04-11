@@ -1,0 +1,25 @@
+Archer icon by Delapouite under CC BY 3.0, from game-icons.net
+Fire zone icon by Lorc under CC BY 3.0, from game-icons.net
+Building icon made by Anu Rocks from freeicons.io
+Nation icon by Cavenir
+Nation, unique building, and unique unit concepts by Cavenir
+JSON file structure copied from LynxRo's Dacia Mod (building) and Nirekyn-sys' Philippines Mod (nation & unit)
+
+- - - - -
+
+Changelog:
+
+v1.0
+- Base version
+- 2 unique buildings and 2 unique units
+
+v1.1
+- Fixed crash issues
+- Adjusted unique building and unique unit parameters
+- Removed Azozo Azen unit
+
+v1.1.1
+- Added ATLAS files in order to make the icons appear on mobile
+
+v1.1.2
+- The sole unique unit does not replace the Archer now, but it still requires the Construction tech to be produced.
