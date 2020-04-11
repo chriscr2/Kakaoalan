@@ -1,15 +1,6 @@
-## Changelog
-v1.1.1:
-- Removed Azozo Azen unit.
-
-- Removed unique abilities for every unique unit, but added a free promotion to the Adalal Kakaoalan (Drill 1).
-
-- Adjusted some parameters and production costs for the unique buildings and units.
-
-- Fixed crash issue.
-
-- Added ATLAS files in order to  make the icons appear on mobile.
-
+## Changelog for v1.1.2
+- Added full changelog to the credits text.
+- Adalal no longer replaces the Archer as the unique unit.
 
 ## The Lyfoda Kakaoalan  
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
@@ -17,7 +8,7 @@ Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the
 ***Unique Ability: Blessings Of The Zaaoo** (Scholars Of The Jade Hall)*
 > This Iron-Age to Early-Medieval state independently developed iron tools, elephant domestication, and writing. 
 
-***Unique Unit: Adalal Kakaoalan** (Replaces Archer)*  
+***Unique Unit: Adalal Kakaoalan***  
 
 > Despite its origins as a group for hunters, this group proved to be an vital for military advancement in the nation.  
 
@@ -38,4 +29,4 @@ Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the
 
 - Unique religion (if G&K update was released).
 
-If you have any concerns feel free to contact me. Thank you.
+If you have any concerns feel free to contact me on Discord (Cavenir#6636). Thank you.
