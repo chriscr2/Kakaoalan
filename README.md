@@ -6,7 +6,7 @@
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
 
 ***Unique Ability: Blessings Of The Zaaoo** (Scholars Of The Jade Hall)*
-> This Iron-Age to Early-Medieval state independently developed iron tools, elephant domestication, and writing. 
+> This Iron-Age to Early-Medieval state independently developed iron tools, hemp paper, elephant domestication, and writing. 
 
 ***Unique Unit: Adalal Kakaoalan** (Replaces Archer)*  
 
@@ -27,6 +27,6 @@ Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the
 
 - More balance fixes.
 
-- Unique religion (if G&K update was released).
+- Unique religion (if the G&K update was released).
 
 If you have any concerns feel free to contact me on Discord (Cavenir#6636). Thank you.
