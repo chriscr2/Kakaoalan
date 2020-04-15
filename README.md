@@ -1,6 +1,5 @@
-## Changelog for v1.1.3
-- Increased the cost of the Adalal Kakaoalan, and it also replaces the Archer as well.
-- Fixed crash issue.
+## Changelog for v1.2
+- Added sprites (by GeneralWadaling) and updated icons.
 
 ## The Lyfoda Kakaoalan  
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
