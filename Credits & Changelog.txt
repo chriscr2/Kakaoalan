@@ -4,7 +4,8 @@ Building icon made by Anu Rocks from freeicons.io
 Nation icon by Cavenir
 Nation, unique building, and unique unit concepts by Cavenir
 JSON file structure copied from LynxRo's Dacia Mod (building) and Nirekyn-sys' Philippines Mod (nation & unit)
-Sprites by GeneralWadaling
+Unit sprites by GeneralWadaling
+Additional help and advice by Red11 and u-ndefined.
 
 - - - - -
 
