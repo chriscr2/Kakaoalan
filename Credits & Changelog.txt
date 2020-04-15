@@ -4,6 +4,7 @@ Building icon made by Anu Rocks from freeicons.io
 Nation icon by Cavenir
 Nation, unique building, and unique unit concepts by Cavenir
 JSON file structure copied from LynxRo's Dacia Mod (building) and Nirekyn-sys' Philippines Mod (nation & unit)
+Sprites by GeneralWadaling
 
 - - - - -
 
@@ -25,4 +26,8 @@ v1.1.2
 - The sole unique unit does not replace the Archer now, but it still requires the Construction tech to be produced.
 
 v1.1.3
-- Due to crashing, the unit will be (temporarily) replacing the Archer. However, its cost will be increased since it is considered to be a Classical Era unit.
+- Due to crash issues, the unit will be (temporarily) replacing the Archer. However, its cost will be increased since it is considered to be a Classical Era unit.
+
+v1.2
+- Added sprites (by GeneralWadaling)
+- Darkened the building icons.
