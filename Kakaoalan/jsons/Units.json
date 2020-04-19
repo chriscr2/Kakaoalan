@@ -3,16 +3,16 @@
 		"name":"Adalal Kakaoalan",
 		"unitType":"Ranged",
 		"uniqueTo":"The Lyfoda Kakaoalan",
-		"replaces":"Archer",
+		"replaces":"Composite Bowman",
 		"movement":3,
-		"strength":10,
-		"rangedStrength":14,
-		"cost":90,
+		"strength":7,
+		"rangedStrength":12,
+		"cost":75,
 		"hurryCostModifier":20,
 		"requiredTech":"Construction",
 		"obsoleteTech":"Machinery",
 		"upgradesTo":"Crossbowman",
-		"promotions":["Drill I"],
+		"uniques": ["+33% combat bonus in Forest/Jungle"],
 		"attackSound":"arrow"
 	}
 ]
