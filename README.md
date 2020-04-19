@@ -1,5 +1,7 @@
-## Changelog for v1.2
-- Added sprites (by GeneralWadaling) and updated icons.
+## Changelog for v1.2.1
+- Adjusted the stats of the Unique Unit in order to make it more balanced.
+
+NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/664739473367760908/700138167268802580/Civ5ExpansionMod3.7.3.zip).
 
 ## The Lyfoda Kakaoalan  
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
@@ -7,7 +9,7 @@ Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the
 ***Unique Ability: Blessings Of The Zaaoo** (Scholars Of The Jade Hall)*
 > This Iron-Age to Early-Medieval state independently developed iron tools, hemp paper, elephant domestication, and writing. 
 
-***Unique Unit: Adalal Kakaoalan** (Replaces Archer)*  
+***Unique Unit: Adalal Kakaoalan** (Replaces Composite Bowman)*  
 
 > Despite its origins as a group for hunters, this group proved to be an vital for military advancement in the nation.  
 
