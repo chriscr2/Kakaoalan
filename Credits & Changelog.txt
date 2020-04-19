@@ -32,3 +32,6 @@ v1.1.3
 v1.2
 - Added sprites (by GeneralWadaling)
 - Darkened the building icons.
+
+v1.2.1
+- Updated and balanced the unique unit.
