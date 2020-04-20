@@ -5,7 +5,7 @@
 		"cost": 45,
 		"uniqueTo": "The Lyfoda Kakaoalan",
 		"culture": 1,
-		"science": 1,
+		"science": 2,
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"requiredTech": "Agriculture"
@@ -17,9 +17,9 @@
 		"uniqueTo": "The Lyfoda Kakaoalan",
 		"maintenance": 0,
 		"happiness": 2,
-		"science": 2,
 		"specialistSlots": {"science": 2},
 		"hurryCostModifier": 25,
+		"uniques":["+1 Science Per 2 Population"],
 		"requiredTech": "Writing"
 	}
 ]
