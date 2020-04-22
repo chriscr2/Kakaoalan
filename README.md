@@ -1,5 +1,5 @@
-## Changelog for v1.2.1
-- Adjusted the stats of the Unique Unit in order to make it more balanced.
+## Changelog for v1.2.3
+- Changed nation inner color.
 
 NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/664739473367760908/700138167268802580/Civ5ExpansionMod3.7.3.zip).
 
