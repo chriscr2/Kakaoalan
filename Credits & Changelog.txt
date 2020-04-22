@@ -38,3 +38,6 @@ v1.2.1
 
 v1.2.2
 - Updated and balanced the unique buildings.
+
+v1.2.3
+- Adjusted the inner color of the nation in order to make it more contrasting and readable.
