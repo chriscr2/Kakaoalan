@@ -1,7 +1,7 @@
 ## Changelog for v1.2.3
 - Changed nation inner color.
 
-NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/664739473367760908/716157804846514230/Civ5ExpansionModv2.2.zip).
+NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/718432409816662118/718474451200638976/Civ5ExpansionModv3.1.zip).
 
 ## The Lyfoda Kakaoalan  
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
