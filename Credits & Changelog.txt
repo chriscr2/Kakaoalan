@@ -41,3 +41,6 @@ v1.2.2
 
 v1.2.3
 - Adjusted the inner color of the nation in order to make it more contrasting and readable.
+
+v1.2.4
+- Added Italian language by Smashanful.
