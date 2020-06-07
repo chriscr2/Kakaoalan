@@ -1,5 +1,5 @@
-## Changelog for v1.2.3
-- Changed nation inner color.
+## Changelog for v1.2.4
+- Now available in Italian! Thank you Smashanful!
 
 NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/718432409816662118/718474451200638976/Civ5ExpansionModv3.1.zip).
 
