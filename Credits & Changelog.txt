@@ -44,3 +44,7 @@ v1.2.3
 
 v1.2.4
 - Added Italian language by Smashanful.
+
+v1.3.0
+- Removed 'default' unique ability. Custom one soon.
+
