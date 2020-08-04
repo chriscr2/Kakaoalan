@@ -1,13 +1,13 @@
-## Changelog for v1.2.4
-- Now available in Italian! Thank you Smashanful!
+## Changelog for v1.3.0
+- Removed 'default' unique ability. Custom one soon.
 
 NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/718432409816662118/718474451200638976/Civ5ExpansionModv3.1.zip).
 
 ## The Lyfoda Kakaoalan  
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
 
-***Unique Ability: Blessings Of The Zaaoo** (Scholars Of The Jade Hall)*
-> This Iron-Age to Early-Medieval state independently developed iron tools, hemp paper, elephant domestication, and writing. 
+~~***Unique Ability: Blessings Of The Zaaoo***
+> This Iron-Age to Early-Medieval state independently developed iron tools, hemp paper, elephant domestication, and writing.~~ (COMING SOON) 
 
 ***Unique Unit: Adalal Kakaoalan** (Replaces Composite Bowman)*  
 > Despite its origins as a group for hunters, this group proved to be an vital for military advancement in the nation.  
