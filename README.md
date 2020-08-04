@@ -7,7 +7,7 @@ NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attac
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
 
 ~~***Unique Ability: Blessings Of The Zaaoo***~~  
-~~> This Iron-Age to Early-Medieval state independently developed iron tools, hemp paper, elephant domestication, and writing.~~ (COMING SOON) 
+~~> This Iron-Age to Early-Medieval state independently developed iron tools, hemp paper, elephant domestication, and writing.~~
 
 ***Unique Unit: Adalal Kakaoalan** (Replaces Composite Bowman)*  
 > Despite its origins as a group for hunters, this group proved to be an vital for military advancement in the nation.  
@@ -27,4 +27,4 @@ Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the
 
 - Unique religion (if the G&K update was released).
 
-If you have any concerns feel free to contact me on Discord (Cavenir#6636). Thank you.
+If you have any concerns feel free to contact me on Discord (Cavenir#6636). Thank you
