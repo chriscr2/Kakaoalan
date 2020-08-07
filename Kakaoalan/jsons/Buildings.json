@@ -1,5 +1,23 @@
 [
 	{
+        "name": "Unique",
+        "cost": -1,
+        "requiredTech": "null"
+    	},
+     	{
+        "name": "Blessings Of The Zaaoo",
+        "uniqueTo": "The Lyfoda Kakaoalan",
+        "replaces": "Unique",
+        "cost": -1,
+        "requiredTech": "Writing",
+        "uniques": [
+             "[+2 Science] from [Jungle] tiles",
+             "[+1 Production] from [Jungle] tiles",
+             "[+2 Food] from [Jungle] tiles"
+        ],
+        "maintenance": 0
+   	},
+	{
 		"name": "Va Zkat",
 		"replaces": "Monument",
 		"cost": 45,
