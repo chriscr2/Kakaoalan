@@ -1,5 +1,5 @@
 ## Changelog for v1.4.0
-- Added custom ability that grants +2 Science, +1 Production, and +1 Food on Jungle tiles.
+- Added custom ability that grants +2 Science, +1 Production, and +2 Food on Jungle tiles.
 
 NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/718432409816662118/741145626364084355/Civ5ExpansionModv13.zip).
 
