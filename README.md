@@ -1,7 +1,7 @@
-## Changelog for v1.4.0
-- Added custom ability that grants +2 Science, +1 Production, and +2 Food on Jungle tiles.
+## Changelog for v1.5.0
+- Rearranged files in order to ensure that it could be directly downloaded from the game itself.
 
-NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/718432409816662118/741145626364084355/Civ5ExpansionModv13.zip).
+NOTE: Requires the latest version of the [Civ 5 Expansion mod](https://github.com/k4zoo/Civ5ExpansionMod).
 
 ## The Lyfoda Kakaoalan  
 Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the well-known figures in its history.  
@@ -19,12 +19,6 @@ Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the
 > The authority figures regurlarly gathered in bonfires in order to discuss important issues. These places still held significance to the populace despite the centralization efforts done in 5th century CE. 
 
 ## Roadmap
-- An unique ability for the nation.
-
-- Unique great persons.
-
-- More balance fixes.
-
 - Unique religion (if the G&K update was released).
 
-If you have any concerns feel free to contact me on Discord (Cavenir#6636). Thank you
+If you have any concerns feel free to contact me on Discord (Cavenir#6636). Thank you.
