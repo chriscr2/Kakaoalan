@@ -50,3 +50,6 @@ v1.3.0
 
 v1.4.0
 - Added custom ability.
+
+v1.5.0
+- Rearranged files in order to ensure that it could be directly downloaded from the game itself.
