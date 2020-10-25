@@ -32,7 +32,7 @@
 		"innerColor":[235, 215, 171],
 		
 		"uniqueName": "Blessings of the Zaaoo",
-		"uniques": ["[+2 Science] from [Jungle] tiles", "[+1 Production] from [Jungle] tiles", "[+2 Food] from [Jungle] tiles"],
+		"uniques": ["[+2 Science] from every [Jungle]", "[+1 Production] from every [Jungle]", "[+2 Food] from every [Jungle]"],
 
 		"cities":["Fa Oyhkon","Din Oyhkon","Ney Oyhkon","Lkn Honkyl","Loya Oyhkon","Loya Honkyl","Yala Honkyl","Yala Oyhkon","Azozo Honkyl","Kyang Oyhkon","Kyang Honkyl","Hakny Yodkaf","Nyolk Yodkaf","Din Yodkaf","Ahk Yodkaf","Hakn Yodkaf","Fadala Zaoa","Hakny Zaoa","Zhak Oyhkon","Atl Oyhkon","Baba Zkat","Zaaoo Zkat","Din Zkat","Ahkynyvol Zkat","Ahknyvol Oyhkon","Lovay Oyhkon","Lovay Zkat","Lovay Honkyl"]
 	}
