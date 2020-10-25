@@ -1,5 +1,5 @@
-## Changelog for v1.5.0
-- Rearranged files in order to ensure that it could be directly downloaded from the game itself.
+## Changelog for v1.5.1
+- Changed the syntax of the Kakaoalan national ability.
 
 NOTE: Requires the latest version of the [Civ 5 Expansion mod](https://github.com/k4zoo/Civ5ExpansionMod).
 
