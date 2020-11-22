@@ -21,4 +21,4 @@ Play as the knowledge-loving West African nation, lead by Neykon Ney, one of the
 ## Roadmap
 - Unique religion (if the G&K update was released).
 
-If you have any concerns feel free to contact me on Discord (Cavenir#6636). Thank you.
+If you have any concerns feel free to contact me on Discord (Cavenir#6636), or you could reach out using the links provided on [my website](https://secession-cycles.carrd.co/). Thank you.
